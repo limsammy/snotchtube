@@ -1,5 +1,16 @@
 #!/bin/bash
-echo "Starting youtube-dl script..."
+echo " _____ _   _ _____ _____ _____ _   _ _____ _   _______ _____ "
+echo "/  ___| \ | |  _  |_   _/  __ \ | | |_   _| | | | ___ \  ___|"
+echo '\ `--.|  \| | | | | | | | /  \/ |_| | | | | | | | |_/ / |__  '
+echo ' `--. \ . ` | | | | | | | |   |  _  | | | | | | | ___ \  __| '
+echo '/\__/ / |\  \ \_/ / | | | \__/\ | | | | | | |_| | |_/ / |___ '
+echo '\____/\_| \_/\___/  \_/  \____|_| |_/ \_/  \___/\____/\____/  v1.14'
+echo ''
+sleep 0.25
+echo "a slimwise production..."
+sleep 0.5
+echo ''
+echo ''
 
 # grab youtube playlist
 echo "Please enter url to channel's playlist and press return:"
